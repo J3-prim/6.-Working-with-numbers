@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Working with numbers", "6. Working with numbers.csproj", "{4ADB8EA8-27D2-450E-B478-23FB3200780F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADB8EA8-27D2-450E-B478-23FB3200780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADB8EA8-27D2-450E-B478-23FB3200780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADB8EA8-27D2-450E-B478-23FB3200780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADB8EA8-27D2-450E-B478-23FB3200780F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571BFED7-297D-4349-A3C3-81D18D8040B1}
+	EndGlobalSection
+EndGlobal
